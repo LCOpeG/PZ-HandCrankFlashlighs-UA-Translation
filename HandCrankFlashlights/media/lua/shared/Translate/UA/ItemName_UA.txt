@@ -1,0 +1,10 @@
+ItemName_UA = {
+    ItemName_CTorch.CrankTorch1 = "«Зелений динамо-ліхтарик",
+	ItemName_CTorch.CrankTorch2 = "Синій динамо-ліхтарик",
+	ItemName_CTorch.CrankTorch3 = "Жовтий динамо-ліхтарик",
+	ItemName_CTorch.CrankTorch4 = "Фіолетовий динамо-ліхтарик",
+	ItemName_CTorch.CrankTorch5 = "Червоний динамо-ліхтарик",
+	ItemName_CTorch.CrankTorch6 = "Сірий динамо-ліхтарик",
+	ItemName_CTorch.CrankTorchARG = "Аргентинський динамо-ліхтарик",
+	ItemName_CTorch.CrankTorchBox = "Запакований ліхтарик",
+	}

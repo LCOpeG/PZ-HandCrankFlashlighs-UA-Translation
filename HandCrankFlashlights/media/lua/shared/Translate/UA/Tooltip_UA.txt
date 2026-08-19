@@ -1,0 +1,4 @@
+Tooltip_UA = {
+	Tooltip_CrankTorchBox = "Містить ліхтарик з динамо-машиною",
+	Tooltip_CrankTorchARG = "Лімітований ліхтарик з Аргентини",
+}

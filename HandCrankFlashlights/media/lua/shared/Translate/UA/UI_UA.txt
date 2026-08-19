@@ -1,1 +1,5 @@
-
+UI_UA = {
+	UI_CTTurnCrank = "Перезарядити"
+	UI_optionscreen_binding_CRANK_HOTKEY = "Перезарядити динамо-ліхтарик",
+	UI_CTOpenBox = "Розпакувати",
+}
