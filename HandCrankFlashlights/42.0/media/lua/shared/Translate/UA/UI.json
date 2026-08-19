@@ -1,1 +1,7 @@
-
+{
+	"UI_CTTurnCrank": "Підзарядити",
+	"UI_optionscreen_binding_CRANK_HOTKEY": "Підзарядити динамо-ліхтарик",
+	"UI_optionscreen_slider_CRANK_VOLUME": "Гучність підзарядки",
+	"UI_CTOpenBox": "Розпакувати",
+	"UI_CTNeedsRepair": "Потребує ремонту."
+}
