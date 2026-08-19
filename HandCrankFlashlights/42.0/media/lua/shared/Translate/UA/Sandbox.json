@@ -5,7 +5,7 @@
 	"Sandbox_HandCrankFlashlights_LightStrength_option2": "Нормально",
 	"Sandbox_HandCrankFlashlights_LightStrength_option3": "Високо",
 	"Sandbox_HandCrankFlashlights_LightDistance": "Максимальна дальність світла",
-	"Sandbox_HandCrankFlashlights_LightDistance_tooltip": "Максимальна відстань, на яку може світити ліхтар",
+	"Sandbox_HandCrankFlashlights_LightDistance_tooltip": "Максимальна відстань, на яку може світити ліхтарик",
 	"Sandbox_HandCrankFlashlights_ConditionLoseRate": "Темп втрати стану",
 	"Sandbox_HandCrankFlashlights_ConditionLoseRate_tooltip": "Кількість підзарядок, необхідних для того, щоб ліхтарик втратив свій стан. Значення «0» означає, що ліхтарик не втрачає стану.",
 	"Sandbox_HandCrankFlashlights_BatteryDuration": "Тривалість роботи батарейки",
